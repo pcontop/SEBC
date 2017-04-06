@@ -1,0 +1,7 @@
+- Ubertask optimization runs sufficiently small tasks sequentially in the same JVM.
+- Cloudera Manager Config
+- CM and Cloudera Mananegement Service, Hue.
+- Using an upgrade wizard at cloudera manager, or manually.
+- Kerberos Security Realm
+- Gateway, Hive Metastore Server, Hiveserver2, Webhcat Server.
+- Install CM and CDH, Install the jce policy file, install kerberos and define the principal for cloudera.
