@@ -1,10 +1,10 @@
 Cloud Providers: vShpere.
 Nodes:
-cluster2node1	192.168.100.171
-cluster2node2	192.168.100.176
-cluster2node3	192.168.100.173
-cluster2node4	192.168.100.174
-cluster2node5	192.168.100.175
+cluster2node1.compwire.local	192.168.100.171
+cluster2node2.compwire.local	192.168.100.176
+cluster2node3.compwire.local	192.168.100.173
+cluster2node4.compwire.local	192.168.100.174
+cluster2node5.compwire.local	192.168.100.175
 
 
 [root@cluster2node1 ~]# df -k
